@@ -1,0 +1,5 @@
+Stack contents:
+dog
+cat
+apple
+banana
